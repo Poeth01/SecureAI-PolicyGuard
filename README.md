@@ -4,12 +4,6 @@ BYLICKILABS – Intelligence Systems & Communications
 ![Version](https://img.shields.io/badge/version-1.1.0-blue.svg) | ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg) | ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg) | ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-lightgrey.svg) | ![API Status](https://img.shields.io/badge/API-OAS%203.1-purple.svg) | ![Audit](https://img.shields.io/badge/Audit-Enabled-important.svg) | ![Security](https://img.shields.io/badge/Encryption-AES--256-critical.svg) |
 |---|---|---|---|---|---|---|
 
-
-
-# 🔐 SecureAI PolicyGuard  
-**Enterprise Compliance & Encryption AI**  
-BYLICKILABS – Intelligence Systems & Communications  
-
 ---
 
 ## 📌 Overview
