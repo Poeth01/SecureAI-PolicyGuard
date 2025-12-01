@@ -14,8 +14,10 @@
    ```yarn
    git clone https://github.com/<your-account>/SecureAI-PolicyGuard.git
    cd SecureAI-PolicyGuard
+   
    python -m venv venv
    source venv/bin/activate   # Windows: venv\Scripts\activate
+   
    pip install -r requirements.txt
    ```
    
