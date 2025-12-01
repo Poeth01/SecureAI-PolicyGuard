@@ -90,7 +90,7 @@ python main.py
 
 ### Method B – Automated (API + GUI)
 ```bash
-run_secureai.bat
+start.bat
 ```
 
 **API Endpoints:**  
