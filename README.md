@@ -28,6 +28,9 @@ It bridges security operations, compliance, and IT automation with a dual-layer 
 | ![certificate_of_completion_front_end_development](https://github.com/user-attachments/assets/57f19f4e-99be-46fc-8efd-37cecf3c21b0)  |
 |---|
 
+| ![certificate_of_completion_modern_web_development](https://github.com/user-attachments/assets/2fbfc420-d6d4-43cf-95e1-9756dc09cab9) |
+|---|
+
 | ![certificate_of_completion_html](https://github.com/user-attachments/assets/98a85fe5-7929-4baa-951a-664820af9e2d) |
 |---|
 
