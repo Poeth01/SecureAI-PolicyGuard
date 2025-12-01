@@ -7,8 +7,11 @@ BYLICKILABS – Intelligence Systems & Communications
 ---
 
 ## 📌 Overview
-SecureAI PolicyGuard is an AI-driven enterprise data protection platform combining **automated classification**, **policy-based encryption**, and **audit-grade compliance logging**.  
-It bridges security operations, compliance, and IT automation with a dual-layer **Desktop + REST API architecture**.
+> SecureAI PolicyGuard is an AI-driven enterprise data protection platform combining 
+- **automated classification**,
+- **policy-based encryption**,
+- **audit-grade compliance logging**.  
+  - It bridges security operations, compliance, and IT automation with a dual-layer **Desktop + REST API architecture**.
 
 <div align="center">
 
@@ -235,8 +238,8 @@ Stored in local SQLite database per workspace.
 ---
 
 ## 🧪 API Certification & Testing
-SecureAI PolicyGuard includes automated **Schemathesis-based API certification tests** verifying OpenAPI 3.1 contract integrity.  
-All test results are stored under `/tests/logs/` for compliance evidence.
+> SecureAI PolicyGuard includes automated **Schemathesis-based API certification tests** verifying OpenAPI 3.1 contract integrity.  
+  - All test results are stored under `/tests/logs/` for compliance evidence.
 
 ---
 
@@ -247,8 +250,5 @@ Developed by **Thorsten Bylicki**
 ---
 
 ## 📜 License
-© 2025 BYLICKILABS
-[LICENSE](LICENSE)
-
----
-
+> © 2025 Thorsten Bylicki | BYLICKILABS
+  - [LICENSE](LICENSE)
