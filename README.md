@@ -244,8 +244,8 @@ Content-Type: application/json
 ---
 
 ## 🧠 Credits
-Developed by **Thorsten Bylicki**  
-**BYLICKILABS – Intelligence Systems & Communications**  
+> Developed by **Thorsten Bylicki**  
+  - **BYLICKILABS – Intelligence Systems & Communications**  
 
 ---
 
