@@ -10,7 +10,66 @@ BYLICKILABS – Intelligence Systems & Communications
 SecureAI PolicyGuard is an AI-driven enterprise data protection platform combining **automated classification**, **policy-based encryption**, and **audit-grade compliance logging**.  
 It bridges security operations, compliance, and IT automation with a dual-layer **Desktop + REST API architecture**.
 
----
+<div align="center">
+
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+
+</div>
+
+<details>
+  <summary> Certifications - 🎓 Certifications & Expertise</summary>
+
+<br>
+
+<details>
+  <summary> PYTHON DEVELOPMENT</summary>
+
+| ![certificate_of_completion_python](https://github.com/user-attachments/assets/e0741261-d519-4173-8ffe-dac8bbe821b3) |
+|---|
+
+| ![certificate_of_completion_fullstack_developer_with_python (1)](https://github.com/user-attachments/assets/390c7574-0e01-48f3-94e3-a5f74ced5ead) |
+|---|
+
+| ![certificate_of_completion_numpy](https://github.com/user-attachments/assets/bb964f82-5a85-45ba-b84c-80d37ba95e7d) |
+|---|
+
+| ![certificate_of_completion_scipy](https://github.com/user-attachments/assets/34bada46-285a-4eb7-8559-e1b49f5965bc) |
+|---|
+
+| ![certificate_of_completion_data_science](https://github.com/user-attachments/assets/cbdba92a-a2da-4922-b9bf-f2e3e47a8048) |
+|---|
+
+| ![certificate_of_completion_statistics](https://github.com/user-attachments/assets/ea00e37b-403e-4429-bee6-64fb3c58c96f) |
+|---|
+
+| ![certificate_of_completion_git](https://github.com/user-attachments/assets/1beffa33-6eb1-4491-bd4d-74f06ab22da6) |
+|---|
+
+| ![certificate_of_completion_pandas](https://github.com/user-attachments/assets/8772b851-df59-4f81-922f-fac585167e9a) |
+|---|
+
+| ![certificate_of_completion_sql](https://github.com/user-attachments/assets/0e5cb029-60a6-4b73-aa75-cc3471043a7f) |
+|---|
+
+| ![certificate_of_completion_general_problem_solving_and_logical_reasoning](https://github.com/user-attachments/assets/001d5638-fe33-4efb-9834-c6883e88286c) |
+|---|
+
+| ![certificate_of_completion_dsa](https://github.com/user-attachments/assets/ac9f905c-4baf-43a3-acca-b8e84c1d0c95)|
+|---|
+
+| ![certificate_of_completion_accessibility](https://github.com/user-attachments/assets/be82a14a-d6c0-4812-9140-b0b69fbbb50d)|
+|---|
+
+| ![certificate_of_completion_cyber_security](https://github.com/user-attachments/assets/a99fab6c-4938-4115-83e1-9443b8094ffe) |
+|---|
+
+</details>
+
+<div align="center">
+
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+
+</div>
 
 ## 🚀 Core Capabilities
 
