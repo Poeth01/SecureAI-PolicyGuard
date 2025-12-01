@@ -104,7 +104,7 @@ BYLICKILABS – Intelligence Systems & Communications
 ## 🚀 Core Capabilities
 
 | Capability | Description |
-|-------------|-------------|
+|:---|---:|
 | **AI Classification Engine** | Detects sensitive content and calculates contextual risk scores |
 | **Policy Mapping Engine** | Maps classification levels to automatic actions (Encrypt / Log / Ignore) |
 | **Encryption Layer (AES-256)** | Local, per-directory key management using Fernet for authenticated encryption |
@@ -214,7 +214,7 @@ Content-Type: application/json
 ## 🧱 Default Policy Matrix
 
 | Classification | Risk Range | Action |
-|----------------|-------------|--------|
+|:---|:---:|---:|
 | PUBLIC | 0–29 | Ignore |
 | INTERNAL | 30–59 | Log Only |
 | CONFIDENTIAL | 60–79 | Encrypt |
@@ -225,7 +225,7 @@ Content-Type: application/json
 ## 🗄️ Audit Logging Schema
 
 | Field | Description |
-|-------|--------------|
+|:---|---:|
 | file_path | Path of analyzed file |
 | classification | Detected sensitivity level |
 | risk_score | Calculated risk score |
