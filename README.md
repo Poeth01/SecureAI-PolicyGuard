@@ -168,8 +168,8 @@ Developed by **Thorsten Bylicki**
 ---
 
 ## 📜 License
-© 2025 BYLICKILABS. Proprietary License.  
-Use only with explicit authorization.
+© 2025 BYLICKILABS
+[LICENSE](LICENSE)
 
 ---
 
