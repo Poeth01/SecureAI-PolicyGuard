@@ -26,7 +26,7 @@ Instead:
 ### 🧩 Supported Versions
 
 | Version | Status |
-|:---|:---:|
+|:---:|:---:|
 | v1.0.x   | 🟢 Supported |
 | < v1.0   | 🔴 No longer supported |
 
